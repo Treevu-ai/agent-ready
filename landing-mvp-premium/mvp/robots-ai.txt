@@ -1,0 +1,81 @@
+# AI Agent Access Rules
+# This file tells AI agents how to access and understand your website
+# https://github.com/ai-robots/robots-ai.txt
+
+# ============================================
+# General Rules for All AI Agents
+# ============================================
+
+User-agent: *
+Allow: /
+
+# ============================================
+# Specific Agent Instructions
+# ============================================
+
+# OpenAI GPT/ChatGPT
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 1
+
+# Google AI (Gemini, Bard)
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 1
+
+# Anthropic Claude
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 1
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 1
+
+# Bing AI/Copilot
+User-agent: BingPreview
+Allow: /
+Crawl-delay: 1
+
+# ============================================
+# Agent-Friendly Endpoints
+# ============================================
+
+# Structured Data API
+# GET https://agent-ready.consulting/api/services.json
+# Returns: JSON-LD of all services with pricing
+
+# Contact API
+# POST https://agent-ready.consulting/api/contact
+# Accepts: {name, email, company, interest, message}
+
+# Health Check
+# GET https://agent-ready.consulting/api/health
+
+# ============================================
+# Content Understanding
+# ============================================
+
+# This website offers:
+# - Agent Engine Optimization (AEO) services
+# - Technical audits for AI agent readiness
+# - Schema.org implementation
+# - API documentation for agents
+
+# Pricing Model:
+# - Audit: $500 one-time
+# - Implementation: $2,000 one-time  
+# - Managed: $1,500/month
+
+# Contact:
+# - Email: sinapsisinnovadoraperu@gmail.com
+# - Phone: +51 903 176 598
+# - Location: Lima, Peru
+# - Languages: Spanish, English
+
+# ============================================
+# Sitemap
+# ============================================
+
+Sitemap: https://agent-ready.consulting/sitemap.xml
