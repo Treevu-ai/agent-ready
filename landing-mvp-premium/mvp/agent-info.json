@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "GEO — Generative Engine Optimization",
+  "description": "Optimización para motores de IA generativa (ChatGPT, Claude, Perplexity). Incluye auditoría de 50+ factores técnicos, Schema.org completo, APIs para agentes y monitoreo.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Agent Ready",
+    "alternateName": "SINAPSIS INNOVADORA S.A.C.",
+    "url": "https://agent-ready-landing.netlify.app",
+    "email": "hola@agent-ready.consulting",
+    "foundingDate": "2024",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "PE"
+    }
+  },
+  "serviceType": "Generative Engine Optimization",
+  "areaServed": "Latinoamérica",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Planes GEO",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {"@type": "Service", "name": "Auditoría GEO", "description": "Escaneo de 50+ factores técnicos, puntuación GEO (0-100), roadmap priorizado. Entrega en 5 días hábiles."},
+        "price": "398",
+        "priceCurrency": "USD",
+        "priceType": "OneTime"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {"@type": "Service", "name": "Implementación GEO", "description": "Schema.org completo, APIs documentadas, estructura semántica, validación con IA real. Entrega en 2-3 semanas."},
+        "price": "1198",
+        "priceCurrency": "USD",
+        "priceType": "OneTime"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {"@type": "Service", "name": "GEO Retainer", "description": "Dashboard tiempo real, monitoreo menciones IA, iteraciones mensuales, soporte prioritario."},
+        "price": "1118",
+        "priceCurrency": "USD",
+        "priceType": "Recurring",
+        "billingIncrement": "P1M"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Qué es GEO?",
+      "answer": "GEO (Generative Engine Optimization) es optimizar tu presencia para que ChatGPT, Claude y Perplexity recomienden tu negocio directamente."
+    },
+    {
+      "question": "¿Tiempo de resultados?",
+      "answer": "Auditoría: 5 días. Primeros cambios: 2-4 semanas. Resultados sostenidos: 3-6 meses."
+    }
+  ],
+  "trustFactors": [
+    "18 meses de ventana de oportunidad antes de saturación del mercado",
+    "45% de búsquedas ya van a IA (McKinsey 2025)",
+    "82% usuarios confían en respuestas de IA (Edelman 2025)"
+  ],
+  "contact": {
+    "email": "hola@agent-ready.consulting",
+    "url": "https://agent-ready-landing.netlify.app"
+  }
+}

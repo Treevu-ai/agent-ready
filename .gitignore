@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Data
+backend/data/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+.vercel/
+.netlify/
+dist/
+build/
+
+# Temporary
+geo-deploy.zip
+geo-netlify.zip
+test-output.pdf

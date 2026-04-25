@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Accent glow -->
+  <circle cx="1000" cy="150" r="200" fill="#00d4aa" opacity="0.05"/>
+  <circle cx="200" cy="500" r="150" fill="#00d4aa" opacity="0.03"/>
+  
+  <!-- Logo icon -->
+  <text x="150" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="100">🚀</text>
+  
+  <!-- Brand name -->
+  <text x="150" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="#ffffff">agent-ready</text>
+  
+  <!-- Tagline -->
+  <text x="150" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#00d4aa">Agent Engine Optimization for your business</text>
+  
+  <!-- Description -->
+  <text x="150" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#a0aec0">Prepare your business for the agentic era.</text>
+  <text x="150" y="485" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#a0aec0">Technical audits, implementation, and managed services.</text>
+  
+  <!-- Website -->
+  <text x="150" y="560" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#64748b">agent-ready.consulting</text>
+</svg>

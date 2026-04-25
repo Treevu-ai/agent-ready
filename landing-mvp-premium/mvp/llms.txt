@@ -1,0 +1,54 @@
+# Agent Ready — GEO Services
+
+## Overview
+Agent Ready is a consulting firm specializing in GEO (Generative Engine Optimization), helping businesses appear in AI assistants like ChatGPT, Claude, Grok, and Perplexity. We are the first 100% GEO-focused firm in Latin America.
+
+## Services
+
+### Auditoría GEO — $398 (5 días)
+Complete audit of your brand's visibility in AI engines. Includes:
+- Analysis of current mentions in AI responses
+- Competitor benchmarking
+- Opportunity identification
+- Written report with recommendations
+
+### Implementación GEO — $1,198
+Full GEO implementation over 30 days. Includes:
+- Content optimization for AI
+- Structured data implementation
+- API integration for AI agents
+- Monitoring dashboard setup
+
+### Retainer Mensual — $1,118/mes
+Ongoing GEO management. Includes:
+- Weekly monitoring and adjustments
+- New content creation
+- Monthly performance reports
+- Priority support
+
+## Contact
+- Website: https://agent-ready-landing.netlify.app
+- Email: hola@agent-ready.consulting
+- Company: SINAPSIS INNOVADORA S.A.C. (Perú)
+
+## Pricing
+All prices in USD. Accept card, wire, crypto.
+
+## Process
+1. Auditoría (5 días) → 2. Implementación (30 días) → 3. Monitoreo continuo
+
+## FAQ
+Q: What is GEO?
+A: Generative Engine Optimization - optimizing to appear in AI assistants
+
+Q: How long to see results?
+A: 2-4 weeks for initial changes, 3-6 months for sustained results
+
+Q: Do I need AI knowledge?
+A: No, we handle everything technical
+
+Q: Does GEO replace SEO?
+A: No, GEO complements SEO
+
+Q: How do you measure results?
+A: We track brand mentions in AI responses, mention quality, and AI-driven traffic
