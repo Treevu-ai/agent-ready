@@ -1,3 +1,10 @@
+<!-- readme-hero -->
+<div align="center">
+
+<img src="assets/readme-hero.svg" alt="AGENT READY" width="100%" />
+
+</div>
+
 # 🚀 GEO Landing MVP Premium
 
 Landing page premium para servicios GEO (Generative Engine Optimization) de agent-ready.
